@@ -48,7 +48,7 @@
 ## 🎮 Demo
 
 Click the GIF above or try it live  
-👉 **[Play in Browser](http://127.0.0.1:5000/)** (after local setup)
+👉 **[Play in Browser](https://guessinggamev0.onrender.com)** (after local setup)
 
 ---
 
@@ -125,4 +125,4 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for guidelines.
 <a id="license"></a>
 ## 📄 License
 
-MIT © [yourname](https://github.com/yourusername)
+MIT © [Christianboat](https://github.com/Christianboat)
